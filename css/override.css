@@ -1,4 +1,4 @@
-#navigation {
+/*#navigation {
     background-color: #3a3a3c;
 }
 
@@ -9,8 +9,8 @@
 
 [class^="sicon-"] i, [class*=" sicon-"] i {
     background-image: url("../assets/images/css/sicon-set-white.png");
-}
+}*/
 
 .page-welcome {
-    background: #292929 url(../assets/images/pages/welcome/welcome2.jpg) 50% 0 repeat fixed;
+    background: #292929 url(../assets/images/pages/welcome/welcome2.jpg) 0 0 repeat fixed;
 }
