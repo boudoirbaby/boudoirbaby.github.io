@@ -14,3 +14,11 @@
 .page-welcome {
     background: #292929 url(../assets/images/pages/welcome/welcome2.jpg) 0 0 repeat fixed;
 }
+
+#navigation .brand {
+    padding-right: 0px;
+}
+
+#navigation a.brand {
+    text-decoration: none;
+}
